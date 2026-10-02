@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.VULectureHub" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.Fitrah" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary Brand Colors -->
         <item name="colorPrimary">@color/primary</item>
         <item name="colorOnPrimary">@color/onPrimary</item>
@@ -10,6 +10,11 @@
         <item name="colorOnSecondary">@color/onSecondary</item>
         <item name="colorSecondaryContainer">@color/secondaryContainer</item>
         <item name="colorOnSecondaryContainer">@color/onSecondaryContainer</item>
+
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorOnTertiary">@color/onTertiary</item>
+        <item name="colorTertiaryContainer">@color/tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/onTertiaryContainer</item>
 
         <!-- Background & Surface -->
         <item name="android:colorBackground">@color/background</item>
@@ -26,8 +31,12 @@
         <item name="android:windowLightStatusBar">true</item>
     </style>
 
-    <style name="ThemeOverlay.VULectureHub.BottomNav" parent="">
+    <style name="Theme.VULectureHub" parent="Theme.Fitrah" />
+
+    <style name="ThemeOverlay.Fitrah.BottomNav" parent="">
         <item name="colorSecondaryContainer">@color/nav_active_indicator</item>
         <item name="colorOnSecondaryContainer">@color/primary</item>
     </style>
+
+    <style name="ThemeOverlay.VULectureHub.BottomNav" parent="ThemeOverlay.Fitrah.BottomNav" />
 </resources>

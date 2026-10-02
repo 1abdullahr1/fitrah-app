@@ -1,0 +1,440 @@
+{
+  "journey_nodes": [
+    {
+      "id": 1,
+      "moduleId": 1,
+      "stepOrder": 1,
+      "title": "What is a Religion?",
+      "subtitle": "Differentiating Rituals from Worldview",
+      "summary": "Religion is not merely a collection of rituals; it is an overarching lens through which humanity understands existence, accountability, and purpose.",
+      "bodyText": "Most modern seekers conflate [Mazhab|A school of legal interpretation or ritual style] with [Deen|The comprehensive divine code and worldview]. A ritual in isolation is simply an outward motion. True religion, however, is a foundational answer to three universal questions: Where did we come from? How ought we to conduct ourselves? What happens when our biological existence concludes?",
+      "keyTakeaway": "Religion is not a hobby or tribal identity; it is the ultimate framework of reality and moral responsibility.",
+      "reflectionPrompt": "When you observe the complexity of your own conscience, do you view it as a biological accident, or as a conscious moral design?",
+      "actionButtonText": "Reflect and Continue",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": false
+    },
+    {
+      "id": 2,
+      "moduleId": 1,
+      "stepOrder": 2,
+      "title": "Can We Live Without Religion?",
+      "subtitle": "The Existential Void",
+      "summary": "While humans can biologically survive without religion, our inherent demand for objective meaning and justice cannot be satisfied by materialism alone.",
+      "bodyText": "Biologically and socially, human beings can function without faith. However, philosophically, secular materialism creates an unavoidable void. If there is no transcendent Creator, then morality is purely subjective, empathy is an evolutionary convenience, and justice is an illusion. When an oppressor lives in luxury and dies peacefully while the innocent suffer, only accountability in the Hereafter preserves cosmic justice.",
+      "keyTakeaway": "Without a transcendent foundation, human purpose reduces to subjective preference and biological survival.",
+      "reflectionPrompt": "If there is no ultimate judgment, can any moral law truly be considered objectively binding?",
+      "actionButtonText": "I Understand",
+      "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 3,
+      "moduleId": 1,
+      "stepOrder": 3,
+      "title": "The Innate Baseline: Fitrah",
+      "subtitle": "The Built-In Moral Compass",
+      "summary": "Every human is born equipped with an inherent moral compass that intuitively recognizes truth, fairness, and compassion.",
+      "bodyText": "Islam is not a novel concept invented 1,400 years ago. It is described as [Fitrah|The natural disposition and innate moral compass hardwired into human nature]. Nobody needs to teach an infant that injustice is repulsive or that compassion is noble. Culture may distort this compass, but the baseline remains universal across all human civilizations. Revelation exists not to replace this intuition, but to purify and guide it.",
+      "keyTakeaway": "Faith is the natural continuation and fulfillment of your built-in moral instincts, not a foreign imposition.",
+      "reflectionPrompt": "Consider a time you recognized a truth immediately before receiving any formal proof. Was that intuition your Fitrah speaking?",
+      "actionButtonText": "Complete Module 1",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 4,
+      "moduleId": 2,
+      "stepOrder": 1,
+      "title": "The Limits of Pure Philosophy",
+      "subtitle": "Where Intellect Meets a Wall",
+      "summary": "Human intellect excels at analyzing the physical mechanisms of the universe, but fails completely at determining the ultimate purpose of life.",
+      "bodyText": "Human intellect ([Aql|Human reason and analytical intellect]) is an exceptional instrument for physical science, medicine, and engineering. However, when applied to metaphysics, philosophy consistently encounters an impasse. From Socrates to Nietzsche and Sartre, thinkers who relied solely on unguided logic ended in skepticism, nihilism, or subjective absurdity. Intellect can explain *how* the cosmos operates, but it cannot deduce *why* consciousness exists.",
+      "keyTakeaway": "Science and philosophy measure the observable mechanisms; they cannot authoritatively reveal the Creator's intentions.",
+      "reflectionPrompt": "Why do the greatest philosophers throughout history disagree so sharply on the meaning of human life?",
+      "actionButtonText": "Acknowledge the Boundary",
+      "imageUrl": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 5,
+      "moduleId": 2,
+      "stepOrder": 2,
+      "title": "The Machine and the Manual",
+      "subtitle": "Why Prophets Are Logically Necessary",
+      "summary": "If an engineer builds an intricate apparatus, only the engineer's manual can explain its intended function and maintenance requirements.",
+      "bodyText": "Consider an advanced machine discovered in an uncharted landscape. You can study its wiring and measure its dimensions using [Aql|Human intellect and deduction]. But you can never determine its exact password, purpose, or operating guidelines merely by staring at it. The designer must transmit a manual. God is the Supreme Creator; human beings are the creation. Prophets are not mythological figures; they are the appointed messengers delivering the Creator's authentic operating manual to humanity.",
+      "keyTakeaway": "Revelation provides the specific operating instructions that human intellect alone can never generate.",
+      "reflectionPrompt": "If a Creator expects accountability, would it be just to withhold direct instructions on how to succeed?",
+      "actionButtonText": "Understood",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 6,
+      "moduleId": 2,
+      "stepOrder": 3,
+      "title": "The Epistemological Boundary",
+      "subtitle": "Three Realms Beyond Pure Reason",
+      "summary": "Revelation provides definitive data for three critical domains: the exact nature of accountability, the specific laws of devotion, and the afterlife.",
+      "bodyText": "There are three specific realms where human intellect requires direct revelation: 1) The precise realities of the Day of Judgment and the Hereafter; 2) The exact forms of ritual worship that harmonize human spirit with the divine; 3) The ultimate divine boundaries of law. Outside these boundaries, humanity is granted complete freedom to innovate in science, governance, and technology.",
+      "keyTakeaway": "Religion defines metaphysical truth and ethical boundaries; it leaves worldly knowledge and technological advancement to human reason.",
+      "reflectionPrompt": "Notice how Islam liberates human intellect to explore the universe while providing peace of mind regarding the unseen.",
+      "actionButtonText": "Complete Module 2",
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 7,
+      "moduleId": 3,
+      "stepOrder": 1,
+      "title": "Tawhid: The Pure Source",
+      "subtitle": "The Absolute Uncompromising Oneness",
+      "summary": "Tawhid establishes that the Creator is singular, self-sufficient, and devoid of partners, human incarnations, or intermediaries.",
+      "bodyText": "At the nucleus of Islam stands [Tawhid|The absolute, undivided oneness and uniqueness of God]. God is entirely unlike His creation; He does not sleep, reproduce, or take physical form. No human being, priest, or saint serves as a barrier or broker between the individual and the Creator. Every sincere prayer ascends directly from the human heart to the Divine without human intermediary.",
+      "keyTakeaway": "Tawhid completely dismantles spiritual hierarchies: all human beings stand equal directly before their Maker.",
+      "reflectionPrompt": "How does speaking directly to the Creator without any intermediary transform your personal dignity?",
+      "actionButtonText": "Acknowledge Oneness",
+      "imageUrl": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 8,
+      "moduleId": 3,
+      "stepOrder": 2,
+      "title": "Akhlaq: Character as the Core",
+      "subtitle": "The Moral Pinnacle of Faith",
+      "summary": "The Prophet declared that his primary mission was to perfect good character, emphasizing justice, honesty, and compassion toward all creation.",
+      "bodyText": "Ritual without moral integrity is an empty shell. In Islamic epistemology, [Akhlaq|Moral character, honesty, integrity, and ethical conduct] is the true test of faith. The Prophet Muhammad stated: 'I was sent only to perfect noble character.' Honesty in commerce, kindness toward neighbors, fulfillment of promises, and standing for justice—even against one's own kin—are the non-negotiable fruits of sincere belief.",
+      "keyTakeaway": "Worship is the training ground; moral integrity in everyday life is the true objective.",
+      "reflectionPrompt": "If an outwardly religious person is dishonest or harsh, have they truly embodied the core purpose of religion?",
+      "actionButtonText": "Commit to Integrity",
+      "imageUrl": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 9,
+      "moduleId": 3,
+      "stepOrder": 3,
+      "title": "Worship as Spiritual Discipline",
+      "subtitle": "The Five Pillars as Systematic Training",
+      "summary": "Prescribed acts of worship are spiritual exercises designed to anchor human consciousness in gratitude and self-restraint.",
+      "bodyText": "Prescribed worship in Islam is not a magical incantation to appease an insecure deity. God has no need of human rituals; rather, humanity desperately needs regular spiritual recalibration. Prayer (Salah) interrupts daily material absorption with mindful remembrance; fasting (Sawm) cultivates impulse control and empathy; charity (Zakah) cleanses greed; pilgrimage (Hajj) enacts absolute human equality.",
+      "keyTakeaway": "Rituals are therapeutic disciplines designed to keep human pride and distraction under control.",
+      "reflectionPrompt": "How does setting aside structured pauses throughout the day protect your mind from endless modern distraction?",
+      "actionButtonText": "Complete Module 3",
+      "imageUrl": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 10,
+      "moduleId": 4,
+      "stepOrder": 1,
+      "title": "Why Are Muslims Divided?",
+      "subtitle": "The Historical Roots of Sectarianism",
+      "summary": "Sectarian fractures originated in historical political succession disputes, which later generations unfortunately solidified into theological dogmas.",
+      "bodyText": "A seeker looking at the Muslim world often asks: If the book is one, why are there factions? The historical reality is straightforward: early divisions were fundamentally **political**, concerning leadership and governance after the initial era. Over centuries, factions weaponized theological arguments to justify their political stances. The Quran explicitly warns against this tendency: 'Do not be like those who divided and differed after clear signs came to them' (3:105).",
+      "keyTakeaway": "Sectarian divisions are historical human baggage, not divine commands. God never instructed Muslims to splinter into factions.",
+      "reflectionPrompt": "Recognizing that human tribalism created sects, does that help you separate the pure message of Islam from cultural politics?",
+      "actionButtonText": "See the Distinction",
+      "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 11,
+      "moduleId": 4,
+      "stepOrder": 2,
+      "title": "Which Group is Right?",
+      "subtitle": "Stripping Away Modern Labels",
+      "summary": "None of the contemporary sectarian labels were mandated by the Prophet. The right path is simply returning to the original sources.",
+      "bodyText": "When asked 'Which sect should I join?', the authentic answer is: **None of them.** The Prophet Muhammad did not establish a sect named Sunni, Shia, Barelvi, Deobandi, or Salafi. The true believer identifies simply as a Muslim adhering to the pure message. The solution to sectarian confusion is not choosing a tribe, but bypassing the historical commentary and anchoring directly in the two universally preserved sources: the Quran and the mass-transmitted Sunnah.",
+      "keyTakeaway": "Refuse all sectarian labels. Your loyalty belongs to the Creator and His Messenger, not to historical scholastic camps.",
+      "reflectionPrompt": "How liberating is it to realize that you can follow the Prophet directly without taking on historical sectarian rivalries?",
+      "actionButtonText": "Reject Sectarianism",
+      "imageUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 12,
+      "moduleId": 4,
+      "stepOrder": 3,
+      "title": "The Golden Criterion",
+      "subtitle": "Distinguishing Sunnah from Hadith",
+      "summary": "Understanding the vital difference between living consensus practice (Sunnah) and historical reports (Hadith) eliminates confusion.",
+      "bodyText": "A foundational breakthrough in rational Islamic thought is the distinction between [Sunnah|The unbroken, continuous practice passed down by unanimous generational consensus] and [Hadith|Individual historical reports requiring textual and chain scrutiny]. The Sunnah represents what the entire community inherited directly from the Prophet—such as the prayer movements and fasting rituals—transmitted by [Tawatur|Unanimous generational transmission]. Hadiths are historical records that provide context, but cannot override the Quran or living Sunnah.",
+      "keyTakeaway": "Core religion is established by universal consensus (Tawatur), protecting the faith from obscure or disputed claims.",
+      "reflectionPrompt": "Why is a living practice performed by millions of people across centuries more reliable than a single isolated narrative?",
+      "actionButtonText": "Complete Module 4",
+      "imageUrl": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 13,
+      "moduleId": 5,
+      "stepOrder": 1,
+      "title": "The Principle of Divine Justice",
+      "subtitle": "God Never Condemns Without Proof",
+      "summary": "Divine justice is absolute: no human being will ever be punished for rejecting a message that was never made clear and accessible to them.",
+      "bodyText": "A common obstacle for thoughtful seekers is the question: What about good people who never heard of Islam, or heard only a horribly distorted caricature? The Quran provides an unequivocal answer: 'We never punish until We have sent a Messenger' (17:15). God is the Ultimate Judge of absolute fairness. He does not hold anyone accountable for geographical or historical accidents that prevented them from reaching the truth.",
+      "keyTakeaway": "God's justice is flawless: individuals are judged solely by the knowledge available to them and their sincere integrity.",
+      "reflectionPrompt": "Does this divine guarantee of justice align with the innate moral fairness you feel in your own heart?",
+      "actionButtonText": "Affirm Justice",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 14,
+      "moduleId": 5,
+      "stepOrder": 2,
+      "title": "The Fate of the Unreached",
+      "subtitle": "Ahl al-Fatrah and the Disadvantaged",
+      "summary": "Those who lived in eras or environments devoid of authentic prophetic guidance are tested on their moral conscience alone.",
+      "bodyText": "Classical Islamic scholarship categorizes those unreached by the authentic message as [Ahl al-Fatrah|People who lived in intervals or environments where divine revelation was absent or heavily obscured]. If someone grew up in an isolated culture or encountered Islam only through terrorism and distorted media, they are not culpable for rejecting that distortion. On the Day of Judgment, the Creator assesses each soul based on their sincerity and adherence to their innate [Fitrah|Innate moral conscience].",
+      "keyTakeaway": "No sincere seeker of good who never received the truth will be subjected to injustice.",
+      "reflectionPrompt": "How does this understanding dismantle the harsh stereotypes often propagated about divine judgment?",
+      "actionButtonText": "Understand Mercy",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    },
+    {
+      "id": 15,
+      "moduleId": 5,
+      "stepOrder": 3,
+      "title": "Itmam al-Hujjah: The Criterion",
+      "subtitle": "Accountability Follows Absolute Proof",
+      "summary": "Condemnation is reserved exclusively for those to whom truth became undeniably clear, yet who rejected it out of arrogant stubbornness.",
+      "bodyText": "In the rational framework, divine punishment is tied to [Itmam al-Hujjah|When the truth has been established so clearly that no rational doubt remains]. Sincere confusion, honest intellectual struggling, and cultural isolation are not crimes in the eyes of God. Only when a person recognizes the truth in their deepest heart and deliberately turns away out of arrogance, greed, or tribal obstinacy does moral accountability for disbelief take effect.",
+      "keyTakeaway": "God judges the sincere intent of the heart, rewarding earnest questioning and condemning only conscious hypocrisy.",
+      "reflectionPrompt": "As you conclude this journey, are you ready to continue seeking truth with an open mind and a steadfast conscience?",
+      "actionButtonText": "Complete Curriculum",
+      "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
+      "isCompleted": false,
+      "isLocked": true
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Fitrah",
+      "arabicScript": "فِطْرَة",
+      "plainEnglishTitle": "Innate Moral Compass",
+      "simpleDefinition": "The built-in human disposition that intuitively recognizes goodness, fairness, and truth before receiving formal instruction.",
+      "detailedExplanation": "Fitrah is the foundational moral baseline gifted to every human being at birth. It explains why all cultures universally honor truthfulness and despise treachery, regardless of religious upbringing."
+    },
+    {
+      "term": "Deen",
+      "arabicScript": "دِين",
+      "plainEnglishTitle": "The Complete Worldview",
+      "simpleDefinition": "The overarching divine code of life that addresses existence, ethical conduct, and ultimate purpose.",
+      "detailedExplanation": "Deen is distinct from mere private rituals (Mazhab). It represents the coherent cosmic truth revealed by God to all prophets from Abraham to Muhammad."
+    },
+    {
+      "term": "Mazhab",
+      "arabicScript": "مَذْهَب",
+      "plainEnglishTitle": "A School of Thought",
+      "simpleDefinition": "A historical school of legal methodology or scholarly interpretation developed centuries after the Prophet.",
+      "detailedExplanation": "Mazhabs (such as Hanafi, Shafi'i, Maliki, Hanbali) are human scholarly opinions on secondary legal details. They are not divine commands and must never be used to fracture the Muslim community into sects."
+    },
+    {
+      "term": "Aql",
+      "arabicScript": "عَقْل",
+      "plainEnglishTitle": "Human Intellect & Reason",
+      "simpleDefinition": "The cognitive power of human analysis and observation, essential for discovering science and validating truth.",
+      "detailedExplanation": "In Islamic thought, Aql is the indispensable prerequisite for faith. Revelation does not suppress intellect; rather, intellect validates the necessity of revelation for understanding metaphysical realities."
+    },
+    {
+      "term": "Tawhid",
+      "arabicScript": "تَوْحِيد",
+      "plainEnglishTitle": "The Absolute Oneness of God",
+      "simpleDefinition": "The recognition that the Creator is single, unique, self-sustaining, and without partners or intermediaries.",
+      "detailedExplanation": "Tawhid is the core axis of Islam. It eliminates all forms of idolatry, human elevation, and ecclesiastical middlemen, establishing a direct connection between each human soul and God."
+    },
+    {
+      "term": "Akhlaq",
+      "arabicScript": "أَخْلَاق",
+      "plainEnglishTitle": "Moral Character & Integrity",
+      "simpleDefinition": "The practical manifestation of faith through honesty, justice, kindness, and humility toward all beings.",
+      "detailedExplanation": "The Prophet emphasized that worship without high moral character is void of true spirit. True religiosity is proven in everyday business ethics, speech, and compassion."
+    },
+    {
+      "term": "Sunnah",
+      "arabicScript": "سُنَّة",
+      "plainEnglishTitle": "Established Consensus Practice",
+      "simpleDefinition": "The practical religious rituals instituted by the Prophet and transmitted down through the unanimous consensus of the entire Ummah.",
+      "detailedExplanation": "Sunnah consists of universal practices—such as the five daily prayers, fasting, and pilgrimage—handed down uninterrupted by millions from generation to generation without dispute."
+    },
+    {
+      "term": "Hadith",
+      "arabicScript": "حَدِيث",
+      "plainEnglishTitle": "Historical Narrative Reports",
+      "simpleDefinition": "Recorded eyewitness accounts of what the Prophet said, did, or approved, compiled in historical anthologies.",
+      "detailedExplanation": "Unlike the continuous Sunnah, Hadiths are individual historical reports that require meticulous scrutiny and context. They illustrate historical moments but cannot introduce brand new religious obligations that contradict the Quran."
+    },
+    {
+      "term": "Tawatur",
+      "arabicScript": "تَوَاتُر",
+      "plainEnglishTitle": "Unbroken Mass Transmission",
+      "simpleDefinition": "Knowledge or practice transmitted by so vast a multitude in each era that conscious fabrication is historically impossible.",
+      "detailedExplanation": "Both the text of the Quran and the practices of the Sunnah are established by Tawatur, granting them the highest tier of historical certainty."
+    },
+    {
+      "term": "Itmam al-Hujjah",
+      "arabicScript": "إِتْمَامُ الْحُجَّة",
+      "plainEnglishTitle": "The Culmination of Proof",
+      "simpleDefinition": "The state when divine truth has been made so transparent and unmistakable to an individual that no sincere doubt remains.",
+      "detailedExplanation": "God's justice dictates that individuals are held accountable for disbelief only after truth has been decisively clarified to them without obscurity."
+    },
+    {
+      "term": "Ahl al-Fatrah",
+      "arabicScript": "أَهْلُ الْفَتْرَة",
+      "plainEnglishTitle": "The Unreached People",
+      "simpleDefinition": "Individuals who lived during periods or in regions where authentic prophetic revelation was absent or completely distorted.",
+      "detailedExplanation": "Under divine justice, such individuals are held accountable strictly for following their innate moral conscience, never for rejecting a message they never properly received."
+    }
+  ],
+  "salah_steps": [
+    {
+      "stepNumber": 1,
+      "postureName": "Takbirat al-Ihram",
+      "arabicName": "تَكْبِيرَةُ الْإِحْرَام",
+      "postureDescription": "Stand upright with composure. Raise hands to earlobes or shoulders and state the opening declaration.",
+      "arabicRecitation": "اللَّهُ أَكْبَرُ",
+      "transliteration": "Allahu Akbar",
+      "englishMeaning": "God is the Greatest.",
+      "guidanceTip": "Quiet your mind. With this declaration, you intentionally leave worldly distractions behind."
+    },
+    {
+      "stepNumber": 2,
+      "postureName": "Qiyam (Standing & Recitation)",
+      "arabicName": "الْقِيَام",
+      "postureDescription": "Place right hand over left across your chest. Recite the opening chapter of the Quran.",
+      "arabicRecitation": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ۝ الرَّحْمَٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "transliteration": "Bismillahir-Rahmanir-Rahim. Alhamdulillahi Rabbil-Alamin. Ar-Rahmanir-Rahim. Maliki Yawmid-Din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinas-Siratal-Mustaqim.",
+      "englishMeaning": "In the name of God, the Most Gracious, the Most Merciful. All praise belongs to God, Lord of the worlds. The Most Gracious, the Most Merciful. Master of the Day of Judgment. You alone we worship, and You alone we ask for help. Guide us along the Straight Path.",
+      "guidanceTip": "If you are learning, recite slowly or read from transliteration. Sincerity outweighs verbal speed."
+    },
+    {
+      "stepNumber": 3,
+      "postureName": "Ruku (Bowing)",
+      "arabicName": "الرُّكُوع",
+      "postureDescription": "Bow down with a straight back, placing hands firmly upon your knees, keeping head level.",
+      "arabicRecitation": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+      "transliteration": "Subhana Rabbiyal-Adheem",
+      "englishMeaning": "Glory be to my Lord, the Magnificent (recited three times).",
+      "guidanceTip": "Bowing signifies intellectual humility, acknowledging our finite understanding before the Infinite Creator."
+    },
+    {
+      "stepNumber": 4,
+      "postureName": "Qawmah (Standing Upright)",
+      "arabicName": "الْقَوْمَة",
+      "postureDescription": "Rise back to a completely upright posture, letting hands rest naturally at your sides.",
+      "arabicRecitation": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ۝ رَبَّنَا وَلَكَ الْحَمْدُ",
+      "transliteration": "Sami'Allahu liman hamidah. Rabbana wa lakal-hamd.",
+      "englishMeaning": "God listens to the one who praises Him. Our Lord, all praise is Yours.",
+      "guidanceTip": "Pause for a moment of stillness and gratitude before descending into prostration."
+    },
+    {
+      "stepNumber": 5,
+      "postureName": "Sujud (Prostration)",
+      "arabicName": "السُّجُود",
+      "postureDescription": "Descend to the floor, placing forehead, nose, palms, knees, and toes upon the ground.",
+      "arabicRecitation": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+      "transliteration": "Subhana Rabbiyal-A'la",
+      "englishMeaning": "Glory be to my Lord, the Most High (recited three times).",
+      "guidanceTip": "This is the climax of prayer: complete surrender of ego, bringing forehead to earth in reverence."
+    },
+    {
+      "stepNumber": 6,
+      "postureName": "Jalsah (Sitting Between Prostrations)",
+      "arabicName": "الْجَلْسَة",
+      "postureDescription": "Rise to a seated posture on your heels or flat legs, pausing with hands resting on thighs.",
+      "arabicRecitation": "رَبِّ اغْفِرْ لِي وَارْحَمْنِي",
+      "transliteration": "Rabbighfir li warhamni",
+      "englishMeaning": "My Lord, forgive me and grant me mercy.",
+      "guidanceTip": "Take a tranquil breath here. Repeat the second prostration following this brief pause."
+    },
+    {
+      "stepNumber": 7,
+      "postureName": "Tashahhud (Final Seated Testimony)",
+      "arabicName": "التَّشَهُّد",
+      "postureDescription": "Remain seated after the final prostration, delivering the historic testimony of peace and faith.",
+      "arabicRecitation": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ ۝ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ۝ أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+      "transliteration": "At-tahiyyatu lillahi was-salawatu wat-tayyibat. As-salamu 'alayka ayyuhan-Nabiyyu wa rahmatullahi wa barakatuh. Ash-hadu an la ilaha illallah, wa ash-hadu anna Muhammadan 'abduhu wa rasuluh.",
+      "englishMeaning": "All compliments, prayers, and pure things belong to God. Peace be upon you, O Prophet, and God's mercy and blessings. I bear witness that there is no deity worthy of worship except God, and that Muhammad is His servant and messenger.",
+      "guidanceTip": "Reflect on this historic covenant connecting you with all believers across centuries."
+    },
+    {
+      "stepNumber": 8,
+      "postureName": "Tasleem (Concluding Salutation)",
+      "arabicName": "التَّسْلِيم",
+      "postureDescription": "Turn head gently to the right, then to the left, spreading peace upon your surroundings.",
+      "arabicRecitation": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+      "transliteration": "As-salamu 'alaykum wa rahmatullah",
+      "englishMeaning": "May peace and the mercy of God be upon you.",
+      "guidanceTip": "You conclude prayer by actively wishing peace to the world around you, transitioning back into daily life."
+    }
+  ],
+  "faq_items": [
+    {
+      "id": 1,
+      "category": "Workplace",
+      "question": "How do I perform prayer at my workplace or university?",
+      "conciseAnswer": "Find any quiet, clean space—an empty conference room, office corner, or park bench. Prayer takes 5 minutes.",
+      "detailedAdvice": "Islam emphasizes flexibility. If your workspace lacks a designated prayer room, a folded jacket or clean scarf serves perfectly as a prayer mat. If physical prostration would cause professional compromise or severe hazard, you can pray seated quietly with slight bowing gestures.",
+      "practicalTip": "Speak politely to your supervisor or HR: most employers readily accommodate a brief 5-minute personal meditation pause."
+    },
+    {
+      "id": 2,
+      "category": "Social & Family",
+      "question": "How do I handle family dinners where alcohol or non-halal meat is served?",
+      "conciseAnswer": "Maintain warmth and love with your family. Politely choose vegetarian/seafood options and drink water or juices.",
+      "detailedAdvice": "Kindness toward parents and family is one of the highest moral mandates in the Quran. You are never required to alienate your loved ones. Attend gatherings with affection, focus on personal conversation, and quietly opt for permissible dishes without self-righteous speeches.",
+      "practicalTip": "Offer to bring a delicious main course to share that meets your dietary requirements."
+    },
+    {
+      "id": 3,
+      "category": "Prayer Practicalities",
+      "question": "What should I do if I lose count of rak'ahs (units) or forget a prayer step?",
+      "conciseAnswer": "Base your count on what you are certain of, complete the prayer, and perform two prostrations of forgetfulness (Sujud as-Sahw).",
+      "detailedAdvice": "Human forgetfulness is entirely natural and anticipated by divine law. If you are uncertain whether you prayed 2 or 3 rak'ahs, assume the smaller number (2), finish your prayer, and before or after the final Salam, perform two prostrations to rectify the error.",
+      "practicalTip": "Never restart the entire prayer over a minor distraction; religion is designed to be gentle, not punishing."
+    },
+    {
+      "id": 4,
+      "category": "Sects & Clarity",
+      "question": "Muslim colleagues are arguing with me over whether I am Sunni or Shia. How do I answer?",
+      "conciseAnswer": "Respond with calm dignity: 'I am simply a Muslim following the Quran and the authentic Sunnah.'",
+      "detailedAdvice": "Do not enter into historical arguments about succession or scholastic legal titles. Quote Surah Al-An'am (6:159) which cautions against dividing faith into factions. Emphasize that your faith is rooted in the shared core: One Creator, the finality of Prophet Muhammad, the Quran, and the Five Pillars.",
+      "practicalTip": "Smiling politely and changing the subject to practical good deeds often disarms theoretical debates instantly."
+    },
+    {
+      "id": 5,
+      "category": "Addressing Doubts",
+      "question": "I am experiencing doubts about faith. Does this mean I am a bad believer?",
+      "conciseAnswer": "No. Asking sincere questions and investigating doubts is a natural sign of a living, thinking mind.",
+      "detailedAdvice": "Even the Prophet Abraham asked God: 'Show me how You give life to the dead' to satisfy his heart (Quran 2:260). Doubts indicate that your faith is engaging with reality rather than blindly conforming. Treat doubts as invitations to read with deeper intellectual rigor, not as moral failures.",
+      "practicalTip": "Write down your specific questions clearly. Distinguish emotional anxiety from actual intellectual questions."
+    },
+    {
+      "id": 6,
+      "category": "Social & Family",
+      "question": "Do I need to adopt an Arabic cultural name to be a legitimate Muslim?",
+      "conciseAnswer": "No. You only need to alter a birth name if its explicit meaning promotes idolatry or cruelty.",
+      "detailedAdvice": "Islam is a global universal faith, not an Arab ethnic monoculture. Thousands of early companions kept their indigenous cultural names. If your name has a neutral or beautiful meaning, keeping it preserves your heritage and family bonds.",
+      "practicalTip": "Your identity and family lineage are honored by Islam; you do not discard your culture to embrace truth."
+    }
+  ]
+}

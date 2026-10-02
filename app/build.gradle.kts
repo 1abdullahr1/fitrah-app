@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.vu.lecturehub"
+    namespace = "com.fitrah.clearpath"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.vu.lecturehub"
+        applicationId = "com.fitrah.clearpath"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

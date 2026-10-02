@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.VULectureHub" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.Fitrah" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary Brand Colors -->
         <item name="colorPrimary">@color/dark_primary</item>
         <item name="colorOnPrimary">@color/dark_onPrimary</item>
@@ -20,8 +20,12 @@
         <item name="android:windowLightStatusBar">false</item>
     </style>
 
-    <style name="ThemeOverlay.VULectureHub.BottomNav" parent="">
+    <style name="Theme.VULectureHub" parent="Theme.Fitrah" />
+
+    <style name="ThemeOverlay.Fitrah.BottomNav" parent="">
         <item name="colorSecondaryContainer">@color/nav_active_indicator</item>
         <item name="colorOnSecondaryContainer">@color/dark_primary</item>
     </style>
+
+    <style name="ThemeOverlay.VULectureHub.BottomNav" parent="ThemeOverlay.Fitrah.BottomNav" />
 </resources>
