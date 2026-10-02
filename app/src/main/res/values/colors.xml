@@ -48,4 +48,6 @@
     <color name="nav_active_indicator_dark">#244D3B</color>
     <color name="glossary_highlight">#0284C7</color>
     <color name="glossary_highlight_dark">#38BDF8</color>
+    <color name="shortcut_color">#1B4D3E</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
 </resources>
